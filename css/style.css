@@ -319,7 +319,7 @@ img {
   top: 0;
   height: 100%;
   width: 100%;
-  background-color: rgba(229, 226, 226, 0.4);
+
   z-index: var(--z-overlay);
 }
 .home-img {
